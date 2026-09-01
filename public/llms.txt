@@ -1,0 +1,11 @@
+# StarStadium NFL Analytics Studio
+
+> Comprehensive NFL analytics, live scoreboard, tactical play-by-play chalkboard diagrams, EPA scatter matrices, and DFS optimization engine.
+
+## Core Features
+- [Tactical Chalkboard & Playbook](https://starstadium.ai.studio/#chalkboard): Interactive 100-yard field vector visualizer with route trees and pass trajectories.
+- [Live Scoreboard](https://starstadium.ai.studio/#scoreboard): Second-by-second countdown clock, live drive charts, and box scores.
+- [Player Leaderboards](https://starstadium.ai.studio/#stats): Passing, rushing, receiving, defensive metrics, and multi-stat scatter plots.
+- [Depth Charts & Injury Wire](https://starstadium.ai.studio/#injuries): Positional depth hierarchy and practice status tracker.
+- [Fantasy & DFS Hub](https://starstadium.ai.studio/#fantasy): Value matrices, target shares, and projection optimizers.
+- [4th Down Decision Engine](https://starstadium.ai.studio/#fourth-down): Mathematical expected win probability for 4th-down go/punt/field-goal choices.

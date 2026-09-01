@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://starstadium.ai.studio/sitemap.xml

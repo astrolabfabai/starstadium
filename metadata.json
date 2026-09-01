@@ -1,0 +1,6 @@
+{
+  "name": "StarStadium",
+  "description": "StarStadium - Comprehensive NFL analytics studio, live scoreboard, tactical play-by-play chalkboard visualizer, EPA quadrant scatter matrices, 4th down decision engine, and SportsData.io NFL feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
